@@ -1,0 +1,10 @@
+body {
+	background-image: url("../images/WH40K wallpaper.jpg");
+}
+
+#banner {
+	background-image: url("../images/WH40K banner.jpg");
+	
+    background-size: 300px 100px;
+}
+

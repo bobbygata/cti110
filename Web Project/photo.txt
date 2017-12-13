@@ -1,0 +1,15 @@
+
+
+background and fill color
+
+body {
+	backgroud-image: url(".../images/xxx.jpg");
+}
+
+#main {
+	background-color: #colorcode;
+}
+
+.jumbotron{
+	background-color: #colorcode;
+}
